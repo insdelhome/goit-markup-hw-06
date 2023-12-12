@@ -1096,10 +1096,10 @@ opacity: 1;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); 
     }
 
-    .subscribe-button-futtor:hover,
-    .subscribe-button-futtor:focus {
-    background-color: #404BBF;
-    }
+.subscribe-button-futtor:hover,
+.subscribe-button-futtor:focus {
+background-color: #404BBF;
+}
 
 .send-email-svg {
 fill: #fff;
